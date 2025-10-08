@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+    color: white;
+    transition: background-color 0.8s;
+}
+
+
+body.darkTheme{
+    background-color: black;
+    transition: background-color 0.8s;
+    color: black;
+}
+
+main.darkTheme{
+    background-color: white;
+}
+
+p.darkTheme{
+    color: black;
+}
